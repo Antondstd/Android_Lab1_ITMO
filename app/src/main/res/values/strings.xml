@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Itmo-Lab1</string>
+    <string name="regOrLog">войти или зарегистрироваться</string>
+    <string name="textAboutRegOrLog">Мы отправим на номер SMS-сообщение с кодом подтверждения</string>
+    <string name="phoneHint">+7 (_ _ _) _ _ _ - _ _ _ - _ _</string>
+    <string name="getCodeButton">ПОЛУЧИТЬ КОД</string>
+    <string name="agreement_login">При входе вы соглашаетесь <a href="https://www.cyberpunk.net/ru/user-agreement/">с условиями</a></string>
+    <string name="name">Антон Данков</string>
+    <string name="exit_app">Выйти из <br/> приложения</string>
+    <string name="phone_email">Телефон и e-mail</string>
+    <string name="email_adresses">Почтовые адреса</string>
+    <string name="region">Регион для платежей</string>
+    <string name="inf_about_employer">Данные о работадателе</string>
+    <string name="push">Push-уведомления</string>
+    <string name="town_option" >Определять город автоматически</string>
+    <string name="finger_option" >Вход по отпечатку пальца</string>
+    <string name="auth_disab">Сбросить авторизацию</string>
+    <string name="software_version">Версия приложения 4.41.2</string>
+    <string name="your_name">Ваше имя</string>
+    <string name="phone">Номер телефона</string>
+    <string name="email_enter">Ваш e-mail адрес</string>
+    <string name="comment">Комментарий</string>
+    <string name="giv_agreement">Я даю согласение на обработку своих персональных данных. С <a href="https://www.cyberpunk.net/ru/user-agreement/">политикой обеспечения безопасности</a> персональных данных САО РЕСО-Гарантия ознакомлен.</string>
+    <string name="settings">Настройки</string>
+    <string name="profile">Профиль</string>
+    <string name="CallBack">Обратная связь</string>
+    <string-array name="subject_appeal">
+        <item>Тема обращения</item>
+        <item>Сломано</item>
+        <item>Потеряно</item>
+        <item>Неисправно</item>
+    </string-array>
+
+</resources>
